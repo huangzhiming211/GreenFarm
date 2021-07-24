@@ -46,11 +46,11 @@ The SDGs(Sustainable Development Goals) adopted by the United Nations include "C
 
 ## Demo video
 
-[![Watch the video](https://github.com/huangzhiming/green_farm/blob/master/Youtube_video.jpg)](https://youtu.be/vOgCOoy_Bx0)
+[![Watch the video](https://github.com/huangzhiming211/GreenFarm/blob/main/Youtube_video.jpg)](https://youtu.be/vOgCOoy_Bx0)
 
 ## The architecture
 
-![Green Farm architecture](https://github.com/huangzhiming/green_farm/blob/master/architecture.jpg)
+![Green Farm architecture](https://github.com/huangzhiming211/GreenFarm/blob/main/architecture.jpg)
 
 1. Farmers measure the unoccupied lands by AR and leased them.
 2. Consumers browse the farm by VR and subscribe to the CSA box or even rent lands.
@@ -61,11 +61,11 @@ The SDGs(Sustainable Development Goals) adopted by the United Nations include "C
 
 ## Long description
 
-[More detail is available here](https://github.com/huangzhiming/green_farm/blob/master/Long%20Description_Green%20Farm.doc)
+[More detail is available here](https://github.com/huangzhiming211/GreenFarm/blob/main/Long%20Description_Green%20Farm.doc)
 
 ## Project roadmap
 
-![Roadmap](https://github.com/huangzhiming/green_farm/blob/master/roadmap.jpg)
+![Roadmap](https://github.com/huangzhiming211/GreenFarm/blob/main/roadmap.jpg)
 
 1. In July 2021, Green Farm iOS version has been released to help small farms better operate with CSA philosophy, support land subscription and lease, keep photos and videos of planting activities, and livestream agricultural production activities.  It supports online sales of produce and user reviews, post creation and share in the farm community; It also supports tracking planting activities from IBM blockchain and converting them into carbon credits. Green Farm recommends farms, produce and green financial products to users through machine learning and federated learning.
 
@@ -75,7 +75,7 @@ The SDGs(Sustainable Development Goals) adopted by the United Nations include "C
 
 ## Getting started
 
-[Getting Started](https://github.com/huangzhiming/green_farm/blob/master/get%20started.md)
+[Getting Started](https://github.com/huangzhiming211/GreenFarm/blob/main/get%20started.md)
 
 ## Live demo
 
