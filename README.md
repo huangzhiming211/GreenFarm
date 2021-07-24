@@ -94,8 +94,8 @@ You can find a deployed app on App store. For more details, see [Getting started
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
+Please read [CONTRIBUTING.md](https://github.com/huangzhiming211/GreenFarm/blob/main/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## License
 
-This project is licensed under the Apache 2 License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the Apache 2 License - see the [LICENSE](https://github.com/huangzhiming211/GreenFarm/blob/main/LICENSE) file for details.
